@@ -45,10 +45,11 @@ python Flash_Quiz.py
 
 ## 🧠 What I Learned
 
-This project helped me:
-	•	Practice event-driven logic in GUI
-	•	Work with dictionary-based data for flashcards
-	•	Fine-tune layout using .place() for design control
+This project helped me :
+
+- Practice event-driven logic in GUI
+- Work with dictionary-based data for flashcards
+- Fine-tune layout using .place() for design control
 
 ---
 
