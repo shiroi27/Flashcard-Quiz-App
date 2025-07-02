@@ -1,5 +1,6 @@
 ## 📸 Preview
-![Flashcard Quiz App Screenshot](https://github.com/your-username/Flashcard-Quiz-App/assets/preview.png)
+![Flashcard Quiz App Screenshot](https://github.com/user-attachments/assets/06108aef-1077-4451-9a4b-cfed70706739)
+
 
 ---
 
