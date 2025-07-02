@@ -42,7 +42,7 @@ python Flash_Quiz.py
 
 ---
 
-🧠 What I Learned
+## 🧠 What I Learned
 
 This project helped me:
 	•	Practice event-driven logic in GUI
@@ -63,12 +63,12 @@ Let’s connect and grow together! 🌱✨
   
 ---
 
-📜 License
+## 📜 License
 
 This project is open-source and free to use under the MIT License.
 
 ---
 
-📌 Hashtags
+## 📌 Hashtags
 
 #Python #Tkinter #Flashcards #QuizApp #100DaysOfCode #BuildInPublic #PythonProjects #SelfTaughtDev
